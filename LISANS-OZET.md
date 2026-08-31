@@ -18,8 +18,8 @@ değişiklik yaptıysanız bunu belirtmelisiniz.
 
 Örnek atıf:
 
-> Çağlar Özenç, *Bu Kitap Kaç Kez Yanıldı?* kanıt deposu,
-> github.com/dmcteknoloji/kac-kez-yanildi, CC BY 4.0
+> Çağlar Özenç, *Yapay Zeka Ne Zaman Yanılır?* kanıt deposu,
+> github.com/dmcteknoloji/yapay-zeka-ne-zaman-yanilir, CC BY 4.0
 
 ## Kapsam dışı
 

@@ -1,10 +1,12 @@
 # Kanıt Deposu
 
-**"Bu Kitap Kaç Kez Yanıldı?"** adlı kitabın bütün ölçümlerinin ham verisi.
+**"Yapay Zeka Ne Zaman Yanılır?"** adlı kitabın bütün ölçümlerinin ham verisi.
 
-Kitap, yapay zeka hakkında yaygın olarak bilinen iddiaları tek tek ölçüyor ve
-şunu söylüyor: *bir cevabın doğruluğunu üslubundan anlayamazsınız, dışarıdan
-bakmanız gerekir.* Aynı standardı kendisine de uygulaması gerekiyordu.
+Kitap tek bir soruyu ölçüyor: **yapay zeka ne zaman yanılır?**
+Ölçülmüş cevap şu: bakabileceği doğru bir yer olduğunda isabet **%97,4**,
+olmadığında **%36,8**. Aynı araç, aynı gün.
+
+Kitap aynı standardı kendisine de uygulamak zorundaydı.
 
 Bu depo o yüzden var. Kitaptaki her rakamın, her ham çıktının ve her
 "ölçüldü" cümlesinin arkasındaki dosya burada duruyor.
