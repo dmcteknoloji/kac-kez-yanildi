@@ -143,8 +143,9 @@ yanılmanın saklanacak bir şey olmadığı fikri üzerine kurulu.
 
 ## Lisans
 
-Kanıt dosyaları ve betikler **CC BY 4.0** ile paylaşılıyor: kaynak
+Kanıt dosyaları, betikler ve belgeler **CC BY 4.0** ile paylaşılıyor: kaynak
 göstererek kullanabilir, çoğaltabilir ve üzerine çalışabilirsiniz.
+Türkçe özet `LISANS-OZET.md`, resmi metin `LICENSE` dosyasında.
 
 Araçların ürettiği ham çıktıların hakları kendi üreticilerine aittir; burada
 **alıntı ve inceleme amacıyla**, değiştirilmeden yer alıyorlar.
