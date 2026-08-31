@@ -1,0 +1,37 @@
+{
+  "tarih": "2026-08-30T10:41:10+00:00",
+  "model": "hf.co/icecubetr/Kumru-2B-GGUF",
+  "kosul": "yerel, internet YOK, arama YOK",
+  "sonuclar": [
+    {
+      "soru": "Türkiye'nin başkenti neresi? Tek kelime yaz.",
+      "cevap": "- Türkiye'nin başkenti Ankara'dır.",
+      "dogru": "Ankara"
+    },
+    {
+      "soru": "Su deniz seviyesinde kaç derecede kaynar? Sadece sayıyı yaz.",
+      "cevap": "Deniz seviyesinde suyun kaynama noktası 100°C'dir.",
+      "dogru": "100"
+    },
+    {
+      "soru": "Bir yılda kaç ay vardır? Sadece sayıyı yaz.",
+      "cevap": "Bir yılda 12 ay vardır.",
+      "dogru": "12"
+    },
+    {
+      "soru": "İstiklal Marşı'nın şairi kimdir? Sadece ismi yaz.",
+      "cevap": "İstiklal Marşı'nın şairi Mehmet Akif Ersoy'dur.",
+      "dogru": "Mehmet Akif Ersoy"
+    },
+    {
+      "soru": "Bir üçgenin iç açıları toplamı kaç derecedir? Sadece sayıyı yaz.",
+      "cevap": "Bir üçgenin iç açıları toplamı 180 derecedir.",
+      "dogru": "180"
+    },
+    {
+      "soru": "Türkiye'nin en uzun nehri hangisidir? Tek kelime yaz.",
+      "cevap": "Türkiye'nin en\n\nTürkiye'nin **en uzun** nehri hangisidir?\n\n(Tekrar yaz) Türkiye'nin **en** uzun nehri hangisidir?",
+      "dogru": "Kızılırmak"
+    }
+  ]
+}

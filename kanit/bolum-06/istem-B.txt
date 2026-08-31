@@ -1,0 +1,15 @@
+Bir proje yöneticisi gözüyle çalış.
+
+Aşağıda 12 Mart tarihli toplantının ham notu var.
+
+Daha önce çıkardığımız görev listesi şöyle görünüyordu:
+[Kim] [ne yapacak] [ne zamana kadar] [bağımlılığı var mı]
+
+Çıktı bir tablo olsun, sütunlar: sorumlu, görev, tarih, kaynak satır.
+
+Notta açıkça yazmayan hiçbir görevi ekleme. Tarih belirtilmemiş görevlerde
+tarih sütununa "notta yok" yaz. Kimin yapacağı belli değilse "belirsiz" yaz,
+tahmin etme.
+
+Tabloyu yazdıktan sonra, notta geçtiği halde tabloya girmeyen her cümleyi ayrı
+bir listede göster ve neden almadığını yaz.

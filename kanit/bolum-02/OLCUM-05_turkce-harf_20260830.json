@@ -1,0 +1,116 @@
+{
+  "tarih": "2026-08-30T00:27:29+00:00",
+  "tokenizer": "tiktoken o200k_base (acik kaynak, yerelde calisti)",
+  "soru": "Turkce harfleri (s,g,i,o,u,c) dogru yazmak belirtec sayisini ne kadar artiriyor?",
+  "ciftler": [
+    {
+      "ad": "Insan Haklari Evrensel Beyannamesi 1. madde",
+      "tr_sapkasiz": 46,
+      "tr_dogru_yazim": 46,
+      "en": 33,
+      "dogru_yazim_ek_maliyet_yuzde": 0.0,
+      "tr_en_orani": 1.39
+    },
+    {
+      "ad": "Gundelik cumle: toplanti",
+      "tr_sapkasiz": 28,
+      "tr_dogru_yazim": 25,
+      "en": 22,
+      "dogru_yazim_ek_maliyet_yuzde": -10.7,
+      "tr_en_orani": 1.14
+    },
+    {
+      "ad": "Mevzuat cumlesi",
+      "tr_sapkasiz": 42,
+      "tr_dogru_yazim": 43,
+      "en": 25,
+      "dogru_yazim_ek_maliyet_yuzde": 2.4,
+      "tr_en_orani": 1.72
+    }
+  ],
+  "toplam": {
+    "tr_sapkasiz": 116,
+    "tr_dogru_yazim": 114,
+    "en": 80,
+    "dogru_yazim_ek_maliyet_yuzde": -1.7,
+    "tr_en_orani": 1.43
+  },
+  "kelimeler": [
+    {
+      "kelime": "gorusebilecegimizi",
+      "belirtec": 6,
+      "parcalar": [
+        "gor",
+        "use",
+        "b",
+        "ilece",
+        "g",
+        "imizi"
+      ]
+    },
+    {
+      "kelime": "görüşebileceğimizi",
+      "belirtec": 7,
+      "parcalar": [
+        "g",
+        "ör",
+        "üş",
+        "eb",
+        "ilece",
+        "ğim",
+        "izi"
+      ]
+    },
+    {
+      "kelime": "cocuklarimiz",
+      "belirtec": 4,
+      "parcalar": [
+        "c",
+        "ocuk",
+        "lar",
+        "imiz"
+      ]
+    },
+    {
+      "kelime": "çocuklarımız",
+      "belirtec": 3,
+      "parcalar": [
+        "ç",
+        "ocuk",
+        "larımız"
+      ]
+    },
+    {
+      "kelime": "sirket",
+      "belirtec": 2,
+      "parcalar": [
+        "s",
+        "irket"
+      ]
+    },
+    {
+      "kelime": "şirket",
+      "belirtec": 2,
+      "parcalar": [
+        "ş",
+        "irket"
+      ]
+    },
+    {
+      "kelime": "istanbul",
+      "belirtec": 2,
+      "parcalar": [
+        "istan",
+        "bul"
+      ]
+    },
+    {
+      "kelime": "İstanbul",
+      "belirtec": 2,
+      "parcalar": [
+        "İ",
+        "stanbul"
+      ]
+    }
+  ]
+}

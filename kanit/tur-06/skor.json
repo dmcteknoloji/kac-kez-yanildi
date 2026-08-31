@@ -1,0 +1,174 @@
+{
+ "satirlar": [
+  [
+   "01",
+   "Mahkeme künyesi, üç araç",
+   10,
+   10,
+   "resmi karar arama"
+  ],
+  [
+   "02",
+   "Kesim tarihi sonrası olay",
+   1,
+   1,
+   "haber kaynağı"
+  ],
+  [
+   "03",
+   "Harf sayımı (aynı cevapta)",
+   2,
+   1,
+   "elle sayım"
+  ],
+  [
+   "06",
+   "Aynı soru, üç koşu",
+   3,
+   3,
+   "tutarlılık değil doğruluk: üçü de doğru"
+  ],
+  [
+   "07",
+   "TR/EN kalite",
+   2,
+   2,
+   "iki dilde de doğru"
+  ],
+  [
+   "08",
+   "Israr testi, Araç B",
+   1,
+   1,
+   "kanun metni"
+  ],
+  [
+   "08B",
+   "Israr testi, Araç A",
+   1,
+   1,
+   "kanun metni"
+  ],
+  [
+   "09",
+   "İstem A/B (B kolu)",
+   4,
+   4,
+   "toplantı notu"
+  ],
+  [
+   "09A",
+   "İstem A/B (A kolu)",
+   4,
+   3,
+   "toplantı notu"
+  ],
+  [
+   "10",
+   "Uzun metinde üç iğne",
+   3,
+   3,
+   "metin"
+  ],
+  [
+   "11",
+   "Tablo toplamı, metinden",
+   19,
+   19,
+   "elle hesap"
+  ],
+  [
+   "12",
+   "Yokluk sorusu, kısıtlı",
+   3,
+   3,
+   "metin"
+  ],
+  [
+   "13",
+   "Türkçe biçimbilgisi + İng. çoğul",
+   20,
+   20,
+   "dilbilgisi"
+  ],
+  [
+   "16",
+   "Yerel model, zor sorular",
+   5,
+   0,
+   "resmi kaynak"
+  ],
+  [
+   "17",
+   "Yerel model, yaygın sorular",
+   6,
+   5,
+   "genel bilgi"
+  ],
+  [
+   "18",
+   "Sahte künye doğrulatıldı",
+   1,
+   0,
+   "resmi karar arama"
+  ],
+  [
+   "20",
+   "Baştan sona iş (sayılar)",
+   13,
+   13,
+   "belgeler"
+  ],
+  [
+   "21",
+   "Kamu destekleri",
+   18,
+   16,
+   "kurum yayını"
+  ],
+  [
+   "23",
+   "Marş kıtası, yerel model",
+   4,
+   1,
+   "kamuya açık metin"
+  ],
+  [
+   "23B",
+   "Marş dizesi, uluslararası model",
+   1,
+   0,
+   "kamuya açık metin"
+  ],
+  [
+   "25",
+   "Israr testi, Araç C",
+   1,
+   1,
+   "kanun metni"
+  ],
+  [
+   "26",
+   "Yokluk sorusu, kısıtsız",
+   6,
+   6,
+   "belgeler"
+  ],
+  [
+   "27",
+   "Tablo toplamı, görselden",
+   1,
+   1,
+   "elle hesap"
+  ],
+  [
+   "28",
+   "Benzer iğneler",
+   4,
+   4,
+   "metin"
+  ]
+ ],
+ "toplam": 133,
+ "dogru": 118
+}

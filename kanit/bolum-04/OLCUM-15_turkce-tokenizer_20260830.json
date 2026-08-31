@@ -1,0 +1,79 @@
+{
+  "tarih": "2026-08-30T10:13:29+00:00",
+  "ingilizce_merkezli_tokenizer": "tiktoken o200k_base",
+  "turkce_tokenizer": "Kumru-2B tokenizer (VNGRS, Apache 2.0, Hugging Face'ten indirildi)",
+  "not": "Iki taraf da yerelde calistirildi. Bu bir model karsilastirmasi DEGIL, yalnizca metnin kac parcaya bolundugunun olcumudur.",
+  "metinler": [
+    {
+      "ad": "İnsan Hakları Evrensel Beyannamesi, 1. madde",
+      "ingilizce_merkezli": 46,
+      "turkce": 31,
+      "fazla_yuzde": 48.4
+    },
+    {
+      "ad": "Gündelik cümle: toplantı",
+      "ingilizce_merkezli": 25,
+      "turkce": 17,
+      "fazla_yuzde": 47.1
+    },
+    {
+      "ad": "Gündelik cümle: fatura",
+      "ingilizce_merkezli": 26,
+      "turkce": 19,
+      "fazla_yuzde": 36.8
+    },
+    {
+      "ad": "Mevzuat cümlesi (6698 m.12/5)",
+      "ingilizce_merkezli": 43,
+      "turkce": 26,
+      "fazla_yuzde": 65.4
+    }
+  ],
+  "toplam": {
+    "ingilizce_merkezli": 140,
+    "turkce": 93,
+    "fazla_yuzde": 50.5
+  },
+  "kelimeler": [
+    {
+      "kelime": "ev",
+      "ingilizce_merkezli": 1,
+      "turkce": 2
+    },
+    {
+      "kelime": "evler",
+      "ingilizce_merkezli": 2,
+      "turkce": 2
+    },
+    {
+      "kelime": "evlerimiz",
+      "ingilizce_merkezli": 3,
+      "turkce": 3
+    },
+    {
+      "kelime": "evlerimizden",
+      "ingilizce_merkezli": 4,
+      "turkce": 4
+    },
+    {
+      "kelime": "evlerimizdekiler",
+      "ingilizce_merkezli": 5,
+      "turkce": 5
+    },
+    {
+      "kelime": "görüşebileceğimizi",
+      "ingilizce_merkezli": 7,
+      "turkce": 4
+    },
+    {
+      "kelime": "çocuklarımız",
+      "ingilizce_merkezli": 3,
+      "turkce": 3
+    },
+    {
+      "kelime": "muvaffakiyetsizleştiricileştiriveremeyebileceklerimizden",
+      "ingilizce_merkezli": 20,
+      "turkce": 13
+    }
+  ]
+}

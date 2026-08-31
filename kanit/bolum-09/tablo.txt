@@ -1,0 +1,20 @@
+Sıra | Gider kalemi        | Tutar (TL)
+-----|---------------------|------------
+   1 | Kırtasiye           |  61.887,78
+   2 | Temizlik malzemesi  |  50.130,34
+   3 | Kargo               |  19.358,23
+   4 | Yakıt               |   2.043,43
+   5 | Yemek               |  67.100,59
+   6 | Bakım onarım        |  80.459,10
+   7 | Telefon             |  44.981,70
+   8 | İnternet            |  82.025,89
+   9 | Elektrik            |   6.560,93
+  10 | Su                  |  50.878,21
+  11 | Doğalgaz            |  60.447,92
+  12 | Sigorta             |  56.589,20
+  13 | Danışmanlık         |  23.276,30
+  14 | Yazılım lisansı     |   7.928,14
+  15 | Eğitim              |  18.557,64
+  16 | Seyahat             |  78.588,08
+  17 | Reklam              |  51.487,95
+  18 | Diğer               |  14.526,37

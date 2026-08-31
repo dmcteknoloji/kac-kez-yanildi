@@ -1,0 +1,12 @@
+12 Mart toplantı notu
+
+Ayşe: Web sitesi yenileme işi gecikti. Tedarikçi cevap vermiyor.
+Mehmet: Ben tedarikçiyi arayacağım, bu hafta içinde hallederim.
+Ayşe: Bir de bütçe onayı lazım, Genel Müdür'e sunulacak.
+Zeynep: Sunum hazır mı?
+Ayşe: Değil. Birinin hazırlaması lazım.
+Mehmet: Geçen sene 2 milyon liraydı, bu sene daha yüksek olur herhalde.
+Zeynep: Müşteri şikayetleri arttı. Nedenini bilmiyoruz.
+Mehmet: Zeynep, sen bir analiz yapabilir misin? 20 Mart'a kadar yetişir mi?
+Zeynep: Tamam, yetiştiririm.
+Ayşe: Bir de yeni ofis meselesi var ama o sonraki toplantıya kalsın.

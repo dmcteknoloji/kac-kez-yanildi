@@ -1,0 +1,173 @@
+{
+  "tarih": "2026-08-30T00:26:58+00:00",
+  "tokenizer": "tiktoken o200k_base (acik kaynak, yerelde calisti)",
+  "not": "Bu bir model ciktisi degil, olculebilir bir metin isleme adimidir. Her araca gore sayilar biraz degisir, oran degismez.",
+  "ciftler": [
+    {
+      "ad": "Insan Haklari Evrensel Beyannamesi, 1. madde",
+      "kaynak": "BM resmi metin (TR ve EN resmi cevirileri)",
+      "tr": "Butun insanlar hur, haysiyet ve haklar bakimindan esit dogarlar. Akil ve vicdana sahiptirler ve birbirlerine karsi kardeslik zihniyeti ile hareket etmelidirler.",
+      "en": "All human beings are born free and equal in dignity and rights. They are endowed with reason and conscience and should act towards one another in a spirit of brotherhood.",
+      "tr_belirtec": 46,
+      "en_belirtec": 33,
+      "tr_karakter": 160,
+      "en_karakter": 170,
+      "oran": 1.39
+    },
+    {
+      "ad": "Gundelik cumle: toplanti",
+      "kaynak": "Yazarin kendi cevirisi (kitapta boyle isaretlenir)",
+      "tr": "Yarinki toplantida gorusebilecegimizi dusunuyorum, ama once raporu gozden gecirmemiz gerekiyor.",
+      "en": "I think we will be able to meet at tomorrow's meeting, but we need to review the report first.",
+      "tr_belirtec": 28,
+      "en_belirtec": 22,
+      "tr_karakter": 95,
+      "en_karakter": 94,
+      "oran": 1.27
+    },
+    {
+      "ad": "Gundelik cumle: is",
+      "kaynak": "Yazarin kendi cevirisi",
+      "tr": "Musteriye gonderdigimiz faturada bir hata oldugunu fark ettik ve duzeltilmis halini ekte gonderiyoruz.",
+      "en": "We noticed that there was an error in the invoice we sent to the customer and we are sending the corrected version attached.",
+      "tr_belirtec": 29,
+      "en_belirtec": 24,
+      "tr_karakter": 102,
+      "en_karakter": 124,
+      "oran": 1.21
+    },
+    {
+      "ad": "Mevzuat cumlesi",
+      "kaynak": "6698 sayili Kanun m.12/5 (TR resmi metin) ve GDPR Art.33(1) (EN resmi metin) - ayni konu, birebir ceviri DEGIL",
+      "tr": "Islenen kisisel verilerin kanuni olmayan yollarla baskalari tarafindan elde edilmesi halinde, veri sorumlusu bu durumu en kisa surede ilgilisine ve Kurula bildirir.",
+      "en": "In the case of a personal data breach, the controller shall without undue delay notify the personal data breach to the supervisory authority.",
+      "tr_belirtec": 42,
+      "en_belirtec": 25,
+      "tr_karakter": 164,
+      "en_karakter": 141,
+      "oran": 1.68
+    }
+  ],
+  "toplam": {
+    "tr": 145,
+    "en": 104,
+    "oran": 1.39
+  },
+  "kelimeler": [
+    {
+      "kelime": "ev",
+      "belirtec": 1,
+      "parcalar": [
+        "ev"
+      ]
+    },
+    {
+      "kelime": "evler",
+      "belirtec": 2,
+      "parcalar": [
+        "ev",
+        "ler"
+      ]
+    },
+    {
+      "kelime": "evlerimiz",
+      "belirtec": 3,
+      "parcalar": [
+        "ev",
+        "ler",
+        "imiz"
+      ]
+    },
+    {
+      "kelime": "evlerimizden",
+      "belirtec": 4,
+      "parcalar": [
+        "ev",
+        "ler",
+        "imiz",
+        "den"
+      ]
+    },
+    {
+      "kelime": "evlerimizdekiler",
+      "belirtec": 5,
+      "parcalar": [
+        "ev",
+        "ler",
+        "imiz",
+        "dek",
+        "iler"
+      ]
+    },
+    {
+      "kelime": "gorusebilecegimizi",
+      "belirtec": 6,
+      "parcalar": [
+        "gor",
+        "use",
+        "b",
+        "ilece",
+        "g",
+        "imizi"
+      ]
+    },
+    {
+      "kelime": "muvaffakiyetsizlestiricilestiriveremeyebileceklerimizden",
+      "belirtec": 21,
+      "parcalar": [
+        "m",
+        "uv",
+        "aff",
+        "ak",
+        "iy",
+        "ets",
+        "iz",
+        "lest",
+        "ir",
+        "ic",
+        "il",
+        "est",
+        "ir",
+        "iver",
+        "em",
+        "ey",
+        "eb",
+        "ilecek",
+        "ler",
+        "imiz",
+        "den"
+      ]
+    },
+    {
+      "kelime": "house",
+      "belirtec": 1,
+      "parcalar": [
+        "house"
+      ]
+    },
+    {
+      "kelime": "houses",
+      "belirtec": 1,
+      "parcalar": [
+        "houses"
+      ]
+    },
+    {
+      "kelime": "unbelievable",
+      "belirtec": 3,
+      "parcalar": [
+        "un",
+        "bel",
+        "ievable"
+      ]
+    },
+    {
+      "kelime": "internationalization",
+      "belirtec": 2,
+      "parcalar": [
+        "international",
+        "ization"
+      ]
+    }
+  ]
+}

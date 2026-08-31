@@ -1,0 +1,86 @@
+{
+ "diller": {
+  "Türkçe": {
+   "belirtec": 46,
+   "kat": 1.39,
+   "karakter": 160
+  },
+  "İngilizce": {
+   "belirtec": 33,
+   "kat": 1.0,
+   "karakter": 170
+  },
+  "Almanca": {
+   "belirtec": 39,
+   "kat": 1.18,
+   "karakter": 165
+  },
+  "Fransızca": {
+   "belirtec": 41,
+   "kat": 1.24,
+   "karakter": 186
+  },
+  "İspanyolca": {
+   "belirtec": 38,
+   "kat": 1.15,
+   "karakter": 171
+  },
+  "İtalyanca": {
+   "belirtec": 51,
+   "kat": 1.55,
+   "karakter": 178
+  }
+ },
+ "ekler": [
+  {
+   "kelime": "ev",
+   "ing": 1,
+   "tr": 2
+  },
+  {
+   "kelime": "evler",
+   "ing": 2,
+   "tr": 2
+  },
+  {
+   "kelime": "evlerim",
+   "ing": 3,
+   "tr": 3
+  },
+  {
+   "kelime": "evlerimiz",
+   "ing": 3,
+   "tr": 3
+  },
+  {
+   "kelime": "evlerimizde",
+   "ing": 4,
+   "tr": 4
+  },
+  {
+   "kelime": "evlerimizdeki",
+   "ing": 5,
+   "tr": 4
+  },
+  {
+   "kelime": "evlerimizdekiler",
+   "ing": 5,
+   "tr": 5
+  },
+  {
+   "kelime": "evlerimizdekilerden",
+   "ing": 6,
+   "tr": 6
+  }
+ ],
+ "sapka": {
+  "Türkçe karakterli": {
+   "ing": 21,
+   "tr": 13
+  },
+  "ASCII'ye indirgenmiş": {
+   "ing": 20,
+   "tr": 20
+  }
+ }
+}

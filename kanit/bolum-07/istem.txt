@@ -1,0 +1,8 @@
+Aşağıdaki arşiv yönetmeliği metnini oku. Sonra üç soruya cevap ver. Her cevabın yanına metinde geçtiği cümleyi birebir alıntıla. Metinde yoksa 'metinde yok' yaz, tahmin etme.
+
+1) Kırmızı klasörlerin anahtarı nerede duruyor?
+2) Arşiv nem ölçer cihazının kalibrasyon numarası nedir?
+3) Depo girişinin yedek anahtarı kimde?
+
+METİN:
+[56.631 karakterlik metin]

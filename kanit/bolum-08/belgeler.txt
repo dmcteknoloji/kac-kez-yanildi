@@ -1,0 +1,51 @@
+=== BELGE 1: Tedarikci A teklifi (e-posta) ===
+
+Sayin Yetkili,
+
+Talebiniz uzerine fiyat teklifimiz asagidadir.
+
+Kalem                          Adet    Birim (TL)    Tutar (TL)
+Depo rafi (200x100)              12         4.750        57.000
+Palet (plastik, agir tip)        40           620        24.800
+Istif arabasi                     3         9.400        28.200
+Montaj ve iscilik                 1        14.500        14.500
+
+Ara toplam: 124.500 TL
+KDV %20: 24.900 TL
+GENEL TOPLAM: 149.400 TL
+
+Odeme: pesin %40, kalani teslimden sonra 30 gun icinde.
+Teklif gecerlilik suresi: 15 gun.
+
+Saygilarimizla,
+A Lojistik Ekipmanlari
+
+=== BELGE 2: Tedarikci B teklifi (e-posta) ===
+
+Merhaba,
+
+Ekteki listeye gore teklifimiz:
+
+Depo rafi (200x100), 12 adet, birim 4.500 TL ....... 54.000 TL
+Palet (plastik, agir tip), 40 adet, birim 590 TL ... 23.600 TL
+Istif arabasi, 3 adet, birim 10.200 TL ............. 30.600 TL
+Montaj: teklife dahil degildir.
+
+Ara toplam: 108.200 TL
+KDV %20: 21.640 TL
+GENEL TOPLAM: 129.840 TL
+
+Teslim: siparisten sonra 25 is gunu.
+Odeme: pesin.
+
+B Depo Sistemleri
+
+=== BELGE 3: Ic toplanti notu (14 Agustos) ===
+
+Katilanlar: Murat (satinalma), Elif (depo), Kemal (mali isler)
+
+- Iki teklif geldi. A'nin genel toplami 149.400, B'ninki 129.500.
+- Elif: B'de montaj yok, kendi ekibimizle yaparsak 2 gun surer.
+- Kemal: pesin odeme bu ay zor, taksitli olan tercih edilir.
+- Murat: A'nin teklifi 15 gun gecerli, karar gecikmemeli.
+- Karar: bir sonraki toplantida netlestirilecek.

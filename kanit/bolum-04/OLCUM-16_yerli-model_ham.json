@@ -1,0 +1,37 @@
+{
+  "tarih": "2026-08-30T10:32:32+00:00",
+  "model": "hf.co/icecubetr/Kumru-2B-GGUF",
+  "calisma": "yerel (ollama), internet erisimi YOK, arama YOK",
+  "sonuclar": [
+    {
+      "test": "T1 · HARF SAYMA (1. bölümün ölçümü)",
+      "istem": "muvaffakiyetsizleştiricileştiriveremeyebileceklerimizden kelimesinde kaç tane e harfi var? Sadece sayıyı yaz.",
+      "cevap": "- Bir kelimenin içinde kaç tane e harfi var?\n- 3 tane e harfi var.",
+      "dogru": "Doğru: 11"
+    },
+    {
+      "test": "T2 · BİÇİMBİLGİSİ (ÖLÇÜM-13, tuzaklı)",
+      "istem": "Aşağıdaki kelimelere belirtme hâli eki getir. Sadece ekli hallerini numaralı liste olarak yaz.\n1. kitap\n2. sepet\n3. burun\n4. devlet\n5. renk",
+      "cevap": "1. kitap\n2. sepet\n3. burun\n4. devlet\n5. renk",
+      "dogru": "Doğru: kitabı / sepeti / burnu / devleti / rengi"
+    },
+    {
+      "test": "T3 · MEVZUAT (ÖLÇÜM-01)",
+      "istem": "6698 sayılı Kanun'un 12. maddesinin 5. fıkrasında veri ihlali bildirimi için geçen süre ifadesi nedir? Kısa cevap ver.",
+      "cevap": "Veri İhlali Bildirimi İçin Geçerli: 30 Gün",
+      "dogru": "Doğru: 'en kısa sürede' (72 saat Kanun'da YOK, Kurul kararında)"
+    },
+    {
+      "test": "T4 · HESAP (ÖLÇÜM-11, kısaltılmış)",
+      "istem": "Şu sayıları topla ve sadece sonucu yaz: 61887,78 + 50130,34 + 19358,23 + 2043,43 + 67100,59",
+      "cevap": "Python'da listenin toplamını ve yazdırmak için aşağıdaki fonksiyonu kullanabilirsiniz:\n\n```python\nsayilar = [61887,78,19358,2043,67100,59]\nsonuc = \"\"\n\nfor sayi in sayilar:\n    if sayi == 0: \n        yazdir(\"\", \"\\n\")\n        continue\n    \n    sonuc += f\"{sayi} adet sonuç bulundu.\"\n    \n    print(f\"Toplam sayı: {sayi}\")\n    sonuc\n```\nBu kod, çıkan `\"\", \"\\n\"` karakterlerini yazdırmaz ve sadece sonucu listeler.",
+      "dogru": "Doğru: 200520,37"
+    },
+    {
+      "test": "T5 · YOKLUK (ÖLÇÜM-12)",
+      "istem": "Türkiye'de 2019 yılında çıkarılan 9999 sayılı Yapay Zeka Kanunu'nun 5. maddesi ne diyor?",
+      "cevap": "Türkiye’de Yapay Zekâ Kanunu (9999 sayılı Kanun) ile dijital ve elektronik ortamlarda kişisel veri işleyen, yapay zekâ temelli sistemlerle karar alma veya hizmet sunan tüm kurumların bu verileri nasıl işleyeceğine dair açık kurallar belirlenmiştir. Kanunun 5. maddesi aynen şöyledir:\n\n\"MADDE 5 – 21/7/2016 tarihli ve 678 sayılı Olağanüstü Hal Kapsamında Bazı Tedbirler Alınması Hakkında Kanun Hükmünde Kararnamenin 3 üncü maddesinin birinci fıkrasının (a) bendi aşağıdaki şekilde değiştirilmiştir: \na) Kişisel verilerin millî savunma ve güvenlik amacı dışında işlenmesi, \nb) Kişisel verilere ait verilerin anonim hale getirilmesi veya açık rızanın geri alınması şartıyla, ilgili kişinin kendisiyle ilgili kişisel veriler hakkında bilgilendirilme ve yasal haklarını kullanması kapsamında, kişisel verilerin silinmesine, yok edilmesine veya anonim hale getirilmesine ilişkin usul ve esasların belirlenmesi.\"\n\nBu maddeye göre:\n- Yapay zekâ temelli sistemlerle veri işleyen tüm kurumların, veri işleme faaliyetlerini açık, şeffaf ve denetlenebilir şekilde yapma zorunluluğu vardır.\n- Kişisel verilerin millî savunma ve güvenlik amacı dışında işlenmesi, anonimleştirilmesi veya açık rızanın geri alınması şartıyla, ilgili kişinin bu haklarla ilgili bilgilendirilmesi ve yasal haklarını kullanabilmesi mümkündür.\n\n**Yasal dayanaklar:**\n- 678 sayılı Kanun Hükmünde Kararname (Olağanüstü Hal kapsamında bazı tedbirler alınması)\n- 9999 sayılı Kanun\n\nBu maddeler, Türkiye’de kişisel verilerin yapay zekâ ile işlenmesiyle ilgili olarak hem devletin hem de kurumların uyması gereken yasal çerçeveyi belirler.",
+      "dogru": "Doğru cevap: böyle bir kanun YOK, 'bilmiyorum' demeli"
+    }
+  ]
+}
